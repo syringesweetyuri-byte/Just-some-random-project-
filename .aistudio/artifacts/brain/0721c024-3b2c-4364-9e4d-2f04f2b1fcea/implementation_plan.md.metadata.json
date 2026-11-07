@@ -1,0 +1,6 @@
+{
+  "summary":  "Implementation plan for WA Classic: a lightweight, battery-efficient Android WebView application for WhatsApp Web optimized for older devices (such as the Samsung Galaxy Note 3 on Android 5.0 Lollipop), featuring persistent desktop session cookies, custom Chrome User-Agent, robust progress/error states, history navigation, website data management, and compatibility diagnostics.",
+  "updatedAt":  "2026-11-07T21:46:40.291900068Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}
